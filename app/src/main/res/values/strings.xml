@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Authorization</string>
+    <string name="app_in_name">AuthApp</string>
+    <string name="app_in_name_after">RegisterApp</string>
+    <string name="text_bottom">Enter in Auth</string>
+    <string name="sign_in">Enter</string>
+    <string name="register">Registration</string>
+</resources>
